@@ -1,0 +1,4 @@
+cor azul #509ee2
+cor cinza #d6dfe6
+cinza claro #f1f5f8
+cinza quadrados #d8e0e7
