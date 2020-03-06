@@ -2,3 +2,19 @@ cor azul #509ee2
 cor cinza #d6dfe6
 cinza claro #f1f5f8
 cinza quadrados #d8e0e7
+
+telefone
+ <img src="https://img.icons8.com/windows/64/000000/phone.png">
+
+
+ camera
+ <img src="https://img.icons8.com/windows/32/000000/video-call.png">
+
+clips
+<img src="https://img.icons8.com/ios/50/000000/attach.png">
+
+lupa
+<img src="https://img.icons8.com/windows/32/000000/search-more.png">
+
+menuzinho
+<img src="https://img.icons8.com/windows/32/000000/button2.png">
